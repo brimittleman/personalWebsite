@@ -30,15 +30,6 @@ date_format = "Jan 2006"
   * Conducting studies to understand gene regulation
   * Creating reproducible pipelines for analysis of genomic data
   """
-
-[[experience]]
-  title = "Instructor"
-  company = "Software Carpentry"
-  company_url = "https://software-carpentry.org/lessons/index.html"
-  location = "Chicago"
-  date_start = "2018-09-01"
-  date_end = ""
-  description = """Teaching introductory and intermediate R workshops for members of the University of Chicago Biological Sciences Division"""
   
 [[experience]]
   title = "Bio-Interpretation Intern"
