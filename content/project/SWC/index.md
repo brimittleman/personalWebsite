@@ -1,6 +1,6 @@
 ---
 title: Software Carpentry
-summary: 
+summary: Teaching computation for Biological Sciences
 tags:
 - Teaching
 date: "2016-04-27T00:00:00Z"
