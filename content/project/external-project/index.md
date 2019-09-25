@@ -4,8 +4,8 @@ external_link: https://brimittleman.github.io/apaQTL/
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: Alternative polyadenylation mediates genetic regulation of gene expression.
+summary: Mapping genetic variation associated with APA.
 tags:
-- Demo
+- Research
 title: apaQTLs
 ---

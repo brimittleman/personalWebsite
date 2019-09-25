@@ -24,14 +24,18 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
+    
+  [[content.filter_button]]
+    name = "Research"
+    tag = "Research"
+    
+  [[content.filter_button]]
+   name = "Teaching"
+   tag = "Teaching"
   
-#  [[content.filter_button]]
-#    name = "apaQTLs"
-#    tag = "apaQTLs"
-  
-#  [[content.filter_button]]
-#    name = "Other"
-#    tag = "Demo"
+  [[content.filter_button]]
+    name = "Outreach"
+    tag = "Outreach"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
