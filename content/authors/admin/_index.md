@@ -15,16 +15,17 @@ education:
     institution: Duke University
     year: 2016
 
-email: ""
+email: "brimittleman@gmail.com"
 interests:
 - Genetics and Genomics
 - Privacy and Property Law 
 - Flying trapeze
+- College Athletics 
 name: Briana Mittleman
 organizations:
 - name: University of Chicago
   url: ""
-role: PhD Candidate, Genetics, Genomics, and Systems Biology
+role: National Institutes of Health Predoctoral Fellow, Genetics, Genomics, and Systems Biology
 social:
 - icon: envelope
   icon_pack: fas
@@ -44,4 +45,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD Candidate at the University of Chicago. I study Genetics and Genomics. My work focuses on using natural human variation to understand how the genome works. 
+I am a PhD Candidate at the University of Chicago. I study Genetics and Genomics. My work focuses on using natural human variation to understand how the genome works. I am interested in pursuing a career in law in order to fasciliate responsible conduct of research and the effective implementation of new genomics technologies into society. Outside of work, I enjoy swinging on the flying trapeze and cheering for the Duke University Blue Devils! 
